@@ -1,16 +1,16 @@
 {
-    "name": "002",
-    "version": "1.0.0",
-    "description": "CRUD em Javascript - em desenvolvimento... ",
-    "main": "crud.js",
-    "scripts": {
-        "start": "nodemon ./crud.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "express": "^4.18.2",
-        "nodemon": "^2.0.20"
-    }
+  "name": "002",
+  "version": "1.0.0",
+  "description": "CRUD em Javascript - em desenvolvimento... ",
+  "main": "crud.js",
+  "scripts": {
+    "start": "nodemon ./crud.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
 }
